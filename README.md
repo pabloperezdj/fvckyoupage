@@ -16,6 +16,6 @@
   </style>
 </head>
 <body>
-  FUCK YOU 😘
+  QUE TE JODAN 😘
 </body>
 </html>
